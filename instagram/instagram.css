@@ -1,0 +1,174 @@
+body{
+    width: 100%;
+    background-color: lightblue;
+    background: linear-gradient(lightblue,pink);
+}
+.main{
+    width:500px;
+    background-color:black;
+    color: white;
+    margin: auto;
+    padding: 10px 10px 0 10px;
+}
+ 
+.intro{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    align-items: center;
+    padding: 0;
+    font-style: italic;
+    margin: 0;
+}
+.heart{
+    margin-left:200px;
+}
+.stories{
+    margin: 10px ;
+    width:100%;
+     display: flex;
+     flex-direction: row;
+     justify-content:space-between;
+   align-items: center;
+    
+}
+  
+h4{
+    font-size: 10px;
+    text-align: center;
+    margin-top: 8%;
+    margin-bottom: 5px;
+ 
+
+}
+hr{
+    margin: 0;
+    border: 1px solid wheat;
+
+}
+
+
+.stroy-one{
+    margin:5px 5px;
+    width: 100px;
+    height: 100px;
+    background-image: url("image-5.jpg");
+    background-size: cover;
+    border: 1px solid white;
+    border-radius: 100px;
+}
+.stroy-two{
+    margin:5px 5px;
+    width: 100px;
+    height: 100px;
+    background-image: url("image-3.jpg");
+    background-size: cover;
+    border: 1px solid white;
+    border-radius: 100px;
+}
+.stroy-three{
+    margin:5px 5px;
+    width: 100px;
+    height: 100px;
+    background-image: url("image-2.jpg");
+    background-size: cover;
+    border: 1px solid white;
+    border-radius: 100px;
+}
+.stroy-four{
+    margin:5px 5px;
+    width: 100px;
+    height: 100px;
+    background-image: url("image-6.jpg");
+    background-size: cover;
+    border: 1px solid white;
+    border-radius: 100px;
+}
+  
+    .name{
+        position: static;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+
+    }   
+.img-bilal{
+    margin-left: 10px;
+    width: 50px;
+    height: 50px;
+    background-image: url("Photoleap_17_06_2023_08_16_41_d4uCm.jpg");
+    background-size: cover;
+    border: 1px solid white;
+    border-radius: 50px;
+     
+}
+.star{
+    margin-left: 300px;
+}
+.main-pic{
+    width: 100%;
+    height:500px;
+    margin-bottom: 10px;
+    background-image: url("image-7.jpg");
+    background-size: cover;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.icon{
+    margin: 5px 20px 0 0;
+}
+.icon-last{
+    margin-left: 350px;
+}
+    .img-two{
+        margin-left: 10px;
+        width: 50px;
+        height: 50px;
+        background-image: url("image-6.jpg");
+        background-size: cover;
+        border: 1px solid white;
+        border-radius: 50px;
+
+    }
+    .main-two{
+        width: 100%;
+        height:500px;
+        margin-bottom: 10px;
+        background-image: url("image-6.jpg");
+        background-size: cover;
+
+    }
+    .img-threeth{
+        margin-left: 10px;
+        width: 50px;
+        height: 50px;
+        background-image: url("iamge-5.jpg");
+        background-size: cover;
+        border: 1px solid white;
+        border-radius: 50px;
+
+
+    }
+    .main-threeth{
+        width: 100%;
+        height:500px;
+        margin-bottom: 10px;
+        background-image: url("image-2.jpg");
+        background-size: cover;
+       
+    }
+    p{
+        margin-bottom: 0;
+        margin-top: 10px;
+    }
+    h5{
+        margin-bottom: 0;
+        margin-top: 5px;
+    }
+    
